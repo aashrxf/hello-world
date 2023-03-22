@@ -1,0 +1,21 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/dqr6ywperma94xj3nx1w"
+#EXTINF:-1 tvg-id="BeINSPORTS1.fr" tvg-name="BeIN Sports 1 [FR]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90470_dark_360w_270h.png" group-title="FR" parent-code="PLEX",BeIN Sports 1 [FR]
+http://155.248.235.34:8080/memfs/97fb5f2c-4e35-4990-b00f-1ea2ac386e81.m3u8
+#EXTINF:-1 tvg-id="BeINSports2.fr" tvg-name="BeIN Sports 2 [FR]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84037_dark_360w_270h.png" group-title="FR" parent-code="PLEX",BeIN Sports 2 [FR]
+http://155.248.235.34:8080/memfs/dddf2bb5-1887-4078-893f-2e793d7a69c8.m3u8
+#EXTINF:-1 tvg-id="BeINSPORTS3.fr" tvg-name="BeIN Sports 3 [FR]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87241_dark_360w_270h.png" group-title="FR" parent-code="PLEX",BeIN Sports 3 [FR]
+http://155.248.235.34:8080/memfs/14f961e1-ac29-469d-af39-85270c2fe493.m3u8
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 [UK]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82450_dark_360w_270h.png" group-title="UK" parent-code="UK",BT Sport 1 [UK]
+http://155.248.235.34:8080/memfs/ea506e6c-2013-4510-95d9-983d139f8ce0.m3u8
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 [UK]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82451_dark_360w_270h.png" group-title="UK" parent-code="UK",BT Sport 2 [UK]
+http://155.248.235.34:8080/memfs/c36d56c4-36c9-4d8a-9a2a-728f21721d1f.m3u8
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 [UK]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95772_dark_360w_270h.png" group-title="UK" parent-code="UK",BT Sport 3 [UK]
+http://155.248.235.34:8080/memfs/37203c43-fd09-48d3-ad5a-550453fd3be3.m3u8
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="BT Sport 4 [UK]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64572_dark_360w_270h.png" group-title="UK" parent-code="UK",BT Sport 4 [UK]
+http://155.248.235.34:8080/memfs/eda2611f-9801-47e2-83fa-e7ea5a6884eb.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN [US]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="US" parent-code="US",ESPN [US]
+http://155.248.235.34:8080/memfs/4fcd7112-b9e2-4851-8f24-b538af45f75c.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 [US]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="US" parent-code="US",ESPN 2 [US]
+http://155.248.235.34:8080/memfs/31bcce44-c069-4164-9ae7-251a4b592809.m3u8
+#EXTINF:-1 tvg-id="fs1.us" tvg-name="Fox Sports 1 [US]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="US" parent-code="US",Fox Sports 1 [US]
+http://155.248.235.34:8080/memfs/6e61c4c4-5886-4be2-bcaf-2b3e32d043a8.m3u8
